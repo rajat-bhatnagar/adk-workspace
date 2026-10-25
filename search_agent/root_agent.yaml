@@ -1,0 +1,6 @@
+name: search_agent
+model: gemini-3.5-flash
+description: 'an agent whose job it is to perform Google search queries and answer questions about the results.'
+instruction: You are an agent whose job is to perform Google search queries and answer questions about the results.
+tools:
+  - name: google_search
