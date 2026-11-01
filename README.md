@@ -207,7 +207,7 @@ python name_extractor_agent/agent.py
 
 ## Study Plans and Documentation
 
-Detailed reference study guides and codelab tracking worksheets are located in [`docs/`](docs):
-- [`docs/a-week-study-plan_23rd-to-30th-Oct-26.MD`](docs/a-week-study-plan_23rd-to-30th-Oct-26.MD): 1-week master curriculum for Google ADK, Model Context Protocol (MCP), and Agent2Agent (A2A) protocol.
-- [`docs/agentic_ai_mastery_worksheet_v7.xlsx`](docs/agentic_ai_mastery_worksheet_v7.xlsx): Progress tracking worksheet for skills, badges, and codelabs.
-- [`docs/Anthropic_Architect_Study_Plan.xlsx`](docs/Anthropic_Architect_Study_Plan.xlsx): Architecture learning reference.
+Detailed reference study guides and codelab tracking worksheets are located in [`docs/`](a docs):
+- [`docs/a-week-study-plan_23rd-to-30th-Oct-26.MD`](a docs/a-week-study-plan_23rd-to-30th-Oct-26.MD): 1-week master curriculum for Google ADK, Model Context Protocol (MCP), and Agent2Agent (A2A) protocol.
+- [`docs/agentic_ai_mastery_worksheet_v7.xlsx`](a docs/agentic_ai_mastery_worksheet_v7.xlsx): Progress tracking worksheet for skills, badges, and codelabs.
+- [`docs/Anthropic_Architect_Study_Plan.xlsx`](a docs/Anthropic_Architect_Study_Plan.xlsx): Architecture learning reference.
