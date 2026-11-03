@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: currency-mcp-server
+Version: 0.1.0
+Summary: Currency conversion FastMCP server
+Requires-Python: >=3.10
+Requires-Dist: fastmcp>=4.0.0
+Requires-Dist: httpx>=0.28.1

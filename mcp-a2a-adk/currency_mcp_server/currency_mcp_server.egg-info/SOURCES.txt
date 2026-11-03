@@ -1,0 +1,6 @@
+pyproject.toml
+currency_mcp_server.egg-info/PKG-INFO
+currency_mcp_server.egg-info/SOURCES.txt
+currency_mcp_server.egg-info/dependency_links.txt
+currency_mcp_server.egg-info/requires.txt
+currency_mcp_server.egg-info/top_level.txt

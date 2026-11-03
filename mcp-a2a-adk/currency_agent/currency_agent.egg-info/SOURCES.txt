@@ -1,0 +1,6 @@
+pyproject.toml
+currency_agent.egg-info/PKG-INFO
+currency_agent.egg-info/SOURCES.txt
+currency_agent.egg-info/dependency_links.txt
+currency_agent.egg-info/requires.txt
+currency_agent.egg-info/top_level.txt
