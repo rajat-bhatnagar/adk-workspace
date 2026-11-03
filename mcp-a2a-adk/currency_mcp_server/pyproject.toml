@@ -1,0 +1,12 @@
+[project]
+name = "currency-mcp-server"
+version = "0.1.0"
+description = "Currency conversion FastMCP server"
+requires-python = ">=3.10"
+dependencies = [
+    "fastmcp>=4.0.0",
+    "httpx>=0.28.1",
+]
+
+[tool.setuptools]
+py-modules = []

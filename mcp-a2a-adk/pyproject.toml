@@ -1,0 +1,23 @@
+[project]
+name = "getting-started-mcp-a2a-adk"
+version = "0.1.0"
+description = "Workspace for currency agent, travel agent, and currency MCP server"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "currency-mcp-server",
+    "currency-agent",
+    "travel-agent",
+]
+
+[tool.uv.sources]
+currency-mcp-server = { workspace = true }
+currency-agent = { workspace = true }
+travel-agent = { workspace = true }
+
+[tool.uv.workspace]
+members = [
+    "currency_mcp_server",
+    "currency_agent",
+    "travel_agent",
+]
